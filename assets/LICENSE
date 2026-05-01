@@ -1,21 +1,43 @@
-MIT License
+ARR LICENSE
+Copyright (c) 2025 Abdullah Almousa
 
-Copyright (c) 2026 Abdullah almousa
+All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software, documentation, and associated files (the "Work") are the
+confidential and proprietary information of Abdullah Almousa. The Work is
+licensed, not sold, to Cyber Target ("Licensee") for a single project or
+engagement as defined in the accompanying Statement of Work (SOW) or
+Master Services Agreement (MSA).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Licensee may:
+- Use the Work solely for internal security purposes related to the
+  agreed-upon engagement.
+- Retain copies of the Work only for the duration of the engagement.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+Licensee may NOT:
+- Copy, modify, merge, publish, distribute, sublicense, or sell copies
+  of the Work without explicit written permission from Abdullah Almousa.
+- Reverse engineer, decompile, or disassemble any part of the Work.
+- Share the Work with any third party, including affiliates or
+  subcontractors, without prior written consent.
+- Use the Work for any purpose outside the defined engagement scope.
+
+This license does not grant any rights to trademarks, service marks, or
+logos of Abdullah Almousa.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OF OR OTHER DEALINGS
+IN THE WORK.
+
+For permissions beyond the scope of this license, contact:
+Abdullah Almousa
+
+Cyber Target acknowledges that unauthorized use, reproduction, or
+distribution of this Work may result in immediate termination of the
+engagement and legal action.
+
+Version: 1.0
